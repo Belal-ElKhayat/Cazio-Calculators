@@ -2,7 +2,6 @@
 
 A playful, skinnable scientific calculator for Windows, modelled on the classic **Casio fx-991** series. Built with **Python + PyQt6**, packaged into a standalone `Cazio.exe`—and hiding a retro **LCD arcade** behind `MODE`.
 
-[![Build](../../actions/workflows/build.yml/badge.svg)](../../actions/workflows/build.yml)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![UI](https://img.shields.io/badge/UI-PyQt6-41CD52?logo=qt&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
